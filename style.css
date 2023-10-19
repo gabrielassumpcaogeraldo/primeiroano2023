@@ -1,6 +1,9 @@
-h1{
+body {
+    background-color: hotpink
+}
 
-    color: gray;
+h1 {
+    color: blue;
     font-size:50px; ;
     text-align: center;
 }

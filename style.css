@@ -17,3 +17,8 @@ p{
     font-size: 30px;
     text-align:justify;
 }
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin: 2px ;

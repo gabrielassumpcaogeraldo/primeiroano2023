@@ -19,7 +19,7 @@ p{
 }
 
 .logo {
-    width: 200px;
+    width: 500px;
     height: 600px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
@@ -28,7 +28,7 @@ p{
 }
 
 .fotos {  
-    width: 50px;
+    width: 500px;
     height: 600px;
     margin: 10px;
     padding: 3px;

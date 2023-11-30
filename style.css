@@ -8,7 +8,7 @@ header {
     border-bottom: 2px solid #677b3e;
 }
 
-.cabeçalho {
+.cabecalho {
     display: flex;
     justify-content:space-around;
 }
